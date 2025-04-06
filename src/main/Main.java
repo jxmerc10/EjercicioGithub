@@ -4,10 +4,15 @@
  */
 package main;
 
+import core.Justin;
+
 /**
  *
  * @author RYZEN
  */
 public class Main {
     
+    Justin justin = new Justin(178, "Daniel", 55);
+    Justin justin2 = new Justin(180, "Jose", 60);
+       
 }

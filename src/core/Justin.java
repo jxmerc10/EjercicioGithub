@@ -18,6 +18,20 @@ public class Justin {
         this.nombre = nombre;
         this.peso = peso;
     }
+
+    public double getAltura() {
+        return altura;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public double getPeso() {
+        return peso;
+    }
+    
+    
     
     
 }
